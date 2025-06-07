@@ -1,0 +1,391 @@
+Filename,Category
+1.xml,Unknown
+10.xml,2 - Malignant (High Risk)
+100.xml,Likely Benign
+101.xml,2 - Malignant (Confirmed Cancer)
+102.xml,2 - Malignant (High Risk)
+103.xml,Likely Benign
+104.xml,Unknown
+105.xml,Likely Benign
+106.xml,Unknown
+107.xml,Likely Benign
+108.xml,Likely Benign
+109.xml,2 - Malignant (High Risk)
+11.xml,2 - Malignant (Confirmed Cancer)
+110.xml,Likely Benign
+111.xml,Likely Benign
+112.xml,2 - Malignant (Very High Risk)
+113.xml,Likely Benign
+114.xml,Unknown
+115.xml,2 - Malignant (Very High Risk)
+116.xml,Unknown
+117.xml,Unknown
+118.xml,2 - Malignant (High Risk)
+119.xml,Likely Benign
+12.xml,Likely Benign
+120.xml,Unknown
+121.xml,2 - Malignant (High Risk)
+122.xml,2 - Malignant (High Risk)
+123.xml,2 - Malignant (Very High Risk)
+124.xml,Unknown
+125.xml,2 - Malignant (Very High Risk)
+126.xml,2 - Malignant (High Risk)
+127.xml,1 - Benign
+128.xml,2 - Malignant (Very High Risk)
+129.xml,2 - Malignant (High Risk)
+13.xml,Likely Benign
+130.xml,1 - Benign
+131.xml,Likely Benign
+132.xml,Unknown
+133.xml,Unknown
+134.xml,1 - Benign
+135.xml,2 - Malignant (High Risk)
+136.xml,Unknown
+137.xml,2 - Malignant (Very High Risk)
+138.xml,Unknown
+139.xml,Unknown
+14.xml,1 - Benign
+140.xml,Unknown
+141.xml,2 - Malignant (Very High Risk)
+142.xml,2 - Malignant (Very High Risk)
+143.xml,Likely Benign
+144.xml,2 - Malignant (High Risk)
+145.xml,Unknown
+146.xml,Unknown
+147.xml,Unknown
+148.xml,2 - Malignant (High Risk)
+149.xml,Unknown
+15.xml,2 - Malignant (Very High Risk)
+150.xml,Unknown
+151.xml,Likely Benign
+152.xml,Unknown
+153.xml,2 - Malignant (High Risk)
+154.xml,2 - Malignant (High Risk)
+155.xml,2 - Malignant (Very High Risk)
+156.xml,2 - Malignant (Very High Risk)
+157.xml,Unknown
+158.xml,Unknown
+159.xml,Unknown
+16.xml,Likely Benign
+160.xml,1 - Benign
+161.xml,Unknown
+162.xml,2 - Malignant (Very High Risk)
+163.xml,Unknown
+164.xml,2 - Malignant (High Risk)
+165.xml,Unknown
+166.xml,Likely Benign
+167.xml,2 - Malignant (High Risk)
+168.xml,2 - Malignant (Very High Risk)
+169.xml,Unknown
+17.xml,1 - Benign
+170.xml,Likely Benign
+171.xml,2 - Malignant (High Risk)
+172.xml,Likely Benign
+173.xml,Unknown
+174.xml,Likely Benign
+175.xml,Unknown
+176.xml,2 - Malignant (High Risk)
+177.xml,2 - Malignant (Very High Risk)
+178.xml,Likely Benign
+179.xml,2 - Malignant (High Risk)
+18.xml,Likely Benign
+180.xml,2 - Malignant (Confirmed Cancer)
+181.xml,Unknown
+182.xml,Unknown
+183.xml,Unknown
+184.xml,Likely Benign
+185.xml,Likely Benign
+186.xml,2 - Malignant (Confirmed Cancer)
+187.xml,2 - Malignant (High Risk)
+188.xml,Unknown
+189.xml,Unknown
+19.xml,2 - Malignant (Confirmed Cancer)
+190.xml,1 - Benign
+192.xml,2 - Malignant (High Risk)
+193.xml,1 - Benign
+194.xml,Likely Benign
+195.xml,2 - Malignant (High Risk)
+196.xml,Unknown
+197.xml,Likely Benign
+198.xml,Likely Benign
+199.xml,Unknown
+2.xml,1 - Benign
+20.xml,2 - Malignant (High Risk)
+200.xml,Unknown
+201.xml,2 - Malignant (Very High Risk)
+202.xml,2 - Malignant (Very High Risk)
+203.xml,2 - Malignant (High Risk)
+204.xml,1 - Benign
+205.xml,Likely Benign
+206.xml,2 - Malignant (Very High Risk)
+207.xml,2 - Malignant (Confirmed Cancer)
+208.xml,Unknown
+209.xml,Likely Benign
+21.xml,Likely Benign
+210.xml,Unknown
+211.xml,2 - Malignant (Confirmed Cancer)
+212.xml,Likely Benign
+213.xml,Unknown
+214.xml,2 - Malignant (High Risk)
+215.xml,2 - Malignant (Very High Risk)
+216.xml,2 - Malignant (Very High Risk)
+217.xml,2 - Malignant (Very High Risk)
+219.xml,2 - Malignant (High Risk)
+22.xml,1 - Benign
+220.xml,2 - Malignant (Confirmed Cancer)
+221.xml,2 - Malignant (High Risk)
+222.xml,Unknown
+223.xml,Unknown
+224.xml,Likely Benign
+225.xml,Likely Benign
+226.xml,Unknown
+227.xml,2 - Malignant (Confirmed Cancer)
+228.xml,2 - Malignant (Very High Risk)
+229.xml,Unknown
+23.xml,Likely Benign
+230.xml,Unknown
+231.xml,Likely Benign
+232.xml,Unknown
+233.xml,2 - Malignant (High Risk)
+234.xml,Unknown
+235.xml,Unknown
+236.xml,2 - Malignant (Very High Risk)
+237.xml,Unknown
+238.xml,Unknown
+239.xml,Unknown
+24.xml,2 - Malignant (High Risk)
+240.xml,Unknown
+241.xml,Unknown
+242.xml,2 - Malignant (High Risk)
+243.xml,2 - Malignant (Very High Risk)
+244.xml,2 - Malignant (Very High Risk)
+245.xml,Unknown
+246.xml,2 - Malignant (Confirmed Cancer)
+247.xml,1 - Benign
+248.xml,Likely Benign
+249.xml,Unknown
+25.xml,Likely Benign
+250.xml,Unknown
+251.xml,2 - Malignant (High Risk)
+252.xml,2 - Malignant (Confirmed Cancer)
+253.xml,Unknown
+254.xml,Unknown
+255.xml,Likely Benign
+256.xml,Unknown
+257.xml,Likely Benign
+258.xml,2 - Malignant (Very High Risk)
+259.xml,Likely Benign
+26.xml,Likely Benign
+260.xml,Unknown
+261.xml,2 - Malignant (High Risk)
+262.xml,Unknown
+263.xml,2 - Malignant (High Risk)
+264.xml,2 - Malignant (High Risk)
+265.xml,2 - Malignant (High Risk)
+266.xml,Unknown
+267.xml,2 - Malignant (High Risk)
+268.xml,Likely Benign
+269.xml,2 - Malignant (High Risk)
+27.xml,2 - Malignant (High Risk)
+270.xml,1 - Benign
+271.xml,2 - Malignant (Very High Risk)
+272.xml,Likely Benign
+273.xml,Unknown
+274.xml,Unknown
+275.xml,2 - Malignant (High Risk)
+276.xml,Unknown
+277.xml,2 - Malignant (High Risk)
+278.xml,Likely Benign
+279.xml,2 - Malignant (High Risk)
+28.xml,2 - Malignant (High Risk)
+280.xml,Unknown
+281.xml,2 - Malignant (Very High Risk)
+282.xml,2 - Malignant (Very High Risk)
+283.xml,Likely Benign
+284.xml,2 - Malignant (High Risk)
+285.xml,1 - Benign
+286.xml,2 - Malignant (High Risk)
+287.xml,Unknown
+288.xml,2 - Malignant (Very High Risk)
+289.xml,Likely Benign
+29.xml,2 - Malignant (Confirmed Cancer)
+290.xml,2 - Malignant (Confirmed Cancer)
+291.xml,2 - Malignant (High Risk)
+292.xml,Likely Benign
+293.xml,Likely Benign
+294.xml,2 - Malignant (Confirmed Cancer)
+295.xml,Likely Benign
+296.xml,2 - Malignant (Confirmed Cancer)
+297.xml,2 - Malignant (Very High Risk)
+298.xml,Likely Benign
+299.xml,Likely Benign
+3.xml,Likely Benign
+30.xml,2 - Malignant (Very High Risk)
+300.xml,Likely Benign
+301.xml,Likely Benign
+302.xml,2 - Malignant (High Risk)
+303.xml,1 - Benign
+304.xml,2 - Malignant (Very High Risk)
+305.xml,1 - Benign
+306.xml,Likely Benign
+307.xml,Likely Benign
+308.xml,Likely Benign
+309.xml,Likely Benign
+31.xml,Likely Benign
+310.xml,1 - Benign
+311.xml,2 - Malignant (High Risk)
+312.xml,Unknown
+313.xml,2 - Malignant (Very High Risk)
+314.xml,Likely Benign
+315.xml,2 - Malignant (Confirmed Cancer)
+316.xml,2 - Malignant (High Risk)
+317.xml,2 - Malignant (Very High Risk)
+318.xml,2 - Malignant (Very High Risk)
+319.xml,2 - Malignant (Very High Risk)
+32.xml,Likely Benign
+320.xml,2 - Malignant (High Risk)
+321.xml,2 - Malignant (Very High Risk)
+323.xml,Unknown
+326.xml,Unknown
+329.xml,1 - Benign
+33.xml,Likely Benign
+330.xml,2 - Malignant (Confirmed Cancer)
+331.xml,1 - Benign
+332.xml,Unknown
+333.xml,1 - Benign
+334.xml,Likely Benign
+335.xml,1 - Benign
+336.xml,1 - Benign
+337.xml,2 - Malignant (Confirmed Cancer)
+338.xml,2 - Malignant (Very High Risk)
+339.xml,1 - Benign
+34.xml,2 - Malignant (Very High Risk)
+340.xml,2 - Malignant (Confirmed Cancer)
+341.xml,2 - Malignant (Very High Risk)
+342.xml,2 - Malignant (Very High Risk)
+343.xml,2 - Malignant (High Risk)
+344.xml,Likely Benign
+345.xml,2 - Malignant (Confirmed Cancer)
+346.xml,Likely Benign
+347.xml,Likely Benign
+348.xml,Likely Benign
+349.xml,Unknown
+35.xml,2 - Malignant (High Risk)
+350.xml,Likely Benign
+351.xml,2 - Malignant (Confirmed Cancer)
+352.xml,2 - Malignant (High Risk)
+353.xml,Likely Benign
+354.xml,2 - Malignant (High Risk)
+355.xml,2 - Malignant (High Risk)
+356.xml,1 - Benign
+357.xml,2 - Malignant (High Risk)
+358.xml,Likely Benign
+359.xml,1 - Benign
+36.xml,2 - Malignant (Confirmed Cancer)
+360.xml,Likely Benign
+361.xml,1 - Benign
+362.xml,1 - Benign
+363.xml,2 - Malignant (High Risk)
+364.xml,1 - Benign
+365.xml,1 - Benign
+366.xml,Likely Benign
+367.xml,2 - Malignant (Very High Risk)
+368.xml,2 - Malignant (High Risk)
+369.xml,1 - Benign
+370.xml,2 - Malignant (Very High Risk)
+371.xml,2 - Malignant (Very High Risk)
+372.xml,2 - Malignant (High Risk)
+373.xml,Likely Benign
+374.xml,2 - Malignant (Confirmed Cancer)
+375.xml,Likely Benign
+376.xml,Likely Benign
+377.xml,1 - Benign
+378.xml,1 - Benign
+379.xml,2 - Malignant (Very High Risk)
+38.xml,2 - Malignant (High Risk)
+380.xml,Likely Benign
+381.xml,2 - Malignant (Very High Risk)
+382.xml,Likely Benign
+383.xml,2 - Malignant (Very High Risk)
+384.xml,Likely Benign
+386.xml,1 - Benign
+387.xml,2 - Malignant (Very High Risk)
+388.xml,Unknown
+389.xml,Unknown
+39.xml,Likely Benign
+390.xml,2 - Malignant (Very High Risk)
+391.xml,1 - Benign
+392.xml,2 - Malignant (Very High Risk)
+394.xml,2 - Malignant (Confirmed Cancer)
+395.xml,Likely Benign
+396.xml,Unknown
+397.xml,1 - Benign
+398.xml,2 - Malignant (High Risk)
+399.xml,2 - Malignant (High Risk)
+4.xml,Likely Benign
+40.xml,Likely Benign
+400.xml,Likely Benign
+41.xml,2 - Malignant (High Risk)
+42.xml,2 - Malignant (High Risk)
+43.xml,2 - Malignant (Very High Risk)
+44.xml,Likely Benign
+45.xml,2 - Malignant (High Risk)
+46.xml,2 - Malignant (Confirmed Cancer)
+47.xml,Likely Benign
+48.xml,2 - Malignant (High Risk)
+49.xml,Likely Benign
+5.xml,2 - Malignant (Confirmed Cancer)
+50.xml,Likely Benign
+51.xml,1 - Benign
+52.xml,Likely Benign
+53.xml,2 - Malignant (Very High Risk)
+54.xml,2 - Malignant (Very High Risk)
+55.xml,2 - Malignant (High Risk)
+56.xml,2 - Malignant (Confirmed Cancer)
+57.xml,2 - Malignant (High Risk)
+58.xml,Unknown
+59.xml,Unknown
+6.xml,2 - Malignant (High Risk)
+60.xml,Unknown
+61.xml,1 - Benign
+62.xml,Unknown
+63.xml,Unknown
+64.xml,Unknown
+65.xml,Likely Benign
+66.xml,1 - Benign
+67.xml,2 - Malignant (High Risk)
+68.xml,2 - Malignant (High Risk)
+69.xml,Unknown
+7.xml,Likely Benign
+70.xml,Likely Benign
+71.xml,Unknown
+72.xml,Unknown
+73.xml,2 - Malignant (High Risk)
+74.xml,2 - Malignant (Very High Risk)
+75.xml,Unknown
+76.xml,Likely Benign
+77.xml,Unknown
+78.xml,2 - Malignant (High Risk)
+79.xml,2 - Malignant (High Risk)
+8.xml,2 - Malignant (Very High Risk)
+80.xml,2 - Malignant (Confirmed Cancer)
+81.xml,2 - Malignant (Confirmed Cancer)
+82.xml,Likely Benign
+83.xml,Likely Benign
+84.xml,Unknown
+85.xml,2 - Malignant (Confirmed Cancer)
+86.xml,Likely Benign
+87.xml,Unknown
+88.xml,Likely Benign
+89.xml,2 - Malignant (High Risk)
+9.xml,2 - Malignant (High Risk)
+90.xml,2 - Malignant (High Risk)
+91.xml,2 - Malignant (Very High Risk)
+92.xml,Unknown
+93.xml,Likely Benign
+94.xml,Likely Benign
+95.xml,Likely Benign
+96.xml,Unknown
+97.xml,Unknown
+98.xml,Likely Benign
+99.xml,Unknown

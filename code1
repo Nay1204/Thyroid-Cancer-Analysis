@@ -1,0 +1,52 @@
+import os
+import csv
+import xml.etree.ElementTree as ET
+
+# Function to determine category based on extracted features
+def categorize_case(tirads, echogenicity):
+    if tirads in ["1", "2"]:
+        return "1 - Benign"
+    elif tirads in ["3", "4a"]:
+        return "Likely Benign"
+    elif tirads == "4b":
+        return "2 - Malignant (High Risk)"
+    elif tirads == "4c":
+        return "2 - Malignant (Very High Risk)"
+    elif tirads == "5":
+        return "2 - Malignant (Confirmed Cancer)"
+    else:
+        return "Unknown"
+    
+
+# Directory containing XML files
+xml_directory = r"C:\Users\dassa\Downloads\ThyroidCancerAnalysis\Thyroid\thyroid (1)"
+output_csv = "output_final.csv"
+
+
+# List to store CSV rows
+data_rows = [["Filename", "Category"]]
+
+# Process each XML file
+for file in os.listdir(xml_directory):
+    if file.endswith(".xml"):
+        file_path = os.path.join(xml_directory, file)
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+
+        # Extracting TIRADS score and echogenicity
+        tirads = root.find("tirads").text if root.find("tirads") is not None else "Unknown"
+        echogenicity = root.find("echogenicity").text if root.find("echogenicity") is not None else "Unknown"
+
+        # Determine category
+        category = categorize_case(tirads, echogenicity)
+
+        # Append to CSV data
+        data_rows.append([file, category])
+
+# Write to CSV file
+with open(output_csv, "w", newline="") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerows(data_rows)
+
+print(f"CSV file '{output_csv}' has been created successfully!")
+
