@@ -12,6 +12,7 @@ using metrics like accuracy, precision, recall, and F1-score. This system
 demonstrates the potential of automated, image-based classification as a supportive
 tool for early detection of thyroid abnormalities, reducing reliance on manual
 interpretation and enhancing diagnostic efficiency.
+
 While the model achieved strong classification performance, challenges like class
 imbalance and limited data were addressed using SMOTE and image augmentation
 techniques. Hyperparameter tuning further improved the model’s reliability and
